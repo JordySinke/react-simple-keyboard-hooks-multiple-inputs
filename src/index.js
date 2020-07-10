@@ -1,7 +1,7 @@
 /**
- * NOTE: This demo is just to explain the basic behavior
+ * NOTE: This demo aims to explain the basic behavior
  * You'll likely need to adapt it for your needs
- * Here's a more flexible example:
+ * Here's another example, in case you need it:
  * https://codesandbox.io/s/github/simple-keyboard/multiple-inputs-wrapper-router/tree/master/?file=/src/Home.js
  */
 import React, { useRef, useState } from "react";
